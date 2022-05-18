@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ApexCheat\\Yully Spoofer\\Beta\\ReflexSpoofer.csproj": {}
+  },
+  "projects": {
+    "D:\\ApexCheat\\Yully Spoofer\\Beta\\ReflexSpoofer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ApexCheat\\Yully Spoofer\\Beta\\ReflexSpoofer.csproj",
+        "projectName": "Reflex Spoofer",
+        "projectPath": "D:\\ApexCheat\\Yully Spoofer\\Beta\\ReflexSpoofer.csproj",
+        "packagesPath": "C:\\Users\\hanso\\.nuget\\packages\\",
+        "outputPath": "D:\\ApexCheat\\Yully Spoofer\\Beta\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\hanso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "DiscordRichPresence": {
+              "target": "Package",
+              "version": "[1.0.175, )"
+            },
+            "FusionAPI": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "FusionAPI.Admin": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Security.Principal.Windows": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KROF2EUFVD0H6SeOFPRTfgmdi9+whrxoAf1QaDZwi5pt8gKfgwAe6REa5fNjk0awx3PdsDSdQFRW7Hw3Vals3A==",
+  "success": true,
+  "projectFilePath": "D:\\ApexCheat\\Yully Spoofer\\Beta\\ReflexSpoofer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanso\\.nuget\\packages\\discordrichpresence\\1.0.175\\discordrichpresence.1.0.175.nupkg.sha512",
+    "C:\\Users\\hanso\\.nuget\\packages\\fusionapi\\1.2.3\\fusionapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hanso\\.nuget\\packages\\fusionapi.admin\\1.1.0\\fusionapi.admin.1.1.0.nupkg.sha512",
+    "C:\\Users\\hanso\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hanso\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

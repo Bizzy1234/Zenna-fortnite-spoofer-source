@@ -1,0 +1,30 @@
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\DiscordRPC.dll
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\DiscordRPC.pdb
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\FusionAPI.dll
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\FusionAdmin.dll
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\Newtonsoft.Json.dll
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\Guna.UI.dll
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\Guna.UI2.dll
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\Kimtoo.Backdrop.dll
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\MaterialSkin.dll
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\Siticone.UI.dll
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\XanderUI.dll
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\Kimtoo.Backdrop.pdb
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\spoofer.pro.csproj.AssemblyReference.cache
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\spoofer.pro.MainForm.resources
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\spoofer.pro.GUI.LoginUI.Login.resources
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\spoofer.pro.GUI.LoginUI.Register.resources
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\spoofer.pro.GUI.Notification.BoxMessage.resources
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\spoofer.pro.GUI.Pages.Settings.Settings.resources
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\spoofer.pro.GUI.Spoofer.Load.resources
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\spoofer.pro.Properties.Resources.resources
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\spoofer.pro.csproj.GenerateResource.cache
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\spoofer.pro.csproj.CoreCompileInputs.cache
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\Reflex Spoofer.exe.config
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\Reflex Spoofer.exe
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\bin\Release\Reflex Spoofer.pdb
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\Reflex Spoofer.exe.config
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\Reflex Spoofer.exe
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\Reflex Spoofer.pdb
+C:\Users\hanso\Desktop\Yully Spoofer\Beta\obj\Release\spoofer.pro.csproj.CopyComplete
